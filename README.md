@@ -4,4 +4,7 @@ Ref:https://github.com/ultralytics/yolov5
 
 https://github.com/AnnacKK/Chords-detection/assets/79131944/83c2d14e-2d10-478b-8591-767511d90a47
 
+Article about implementation in Ukrainian:
+https://drukarnia.com.ua/articles/chords-detection-with-yolov5-reHGY
+
 
